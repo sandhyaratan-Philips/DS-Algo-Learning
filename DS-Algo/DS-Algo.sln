@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArray", "DynamicProgramming\DynamicArray.csproj", "{C88218FA-4DE7-4910-BA7E-ACCC933410DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{321DC5D3-0647-413F-BD03-DC9241EF40A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{D301967A-62D5-4463-A0BA-D5E36929B258}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C88218FA-4DE7-4910-BA7E-ACCC933410DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C88218FA-4DE7-4910-BA7E-ACCC933410DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C88218FA-4DE7-4910-BA7E-ACCC933410DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C88218FA-4DE7-4910-BA7E-ACCC933410DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321DC5D3-0647-413F-BD03-DC9241EF40A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321DC5D3-0647-413F-BD03-DC9241EF40A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321DC5D3-0647-413F-BD03-DC9241EF40A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321DC5D3-0647-413F-BD03-DC9241EF40A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D301967A-62D5-4463-A0BA-D5E36929B258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D301967A-62D5-4463-A0BA-D5E36929B258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D301967A-62D5-4463-A0BA-D5E36929B258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D301967A-62D5-4463-A0BA-D5E36929B258}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A942A89D-37D2-4086-87D4-281353F11EBE}
+	EndGlobalSection
+EndGlobal
