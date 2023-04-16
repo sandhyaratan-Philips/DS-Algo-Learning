@@ -5,25 +5,31 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArray", "DynamicProgramming\DynamicArray.csproj", "{C88218FA-4DE7-4910-BA7E-ACCC933410DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{321DC5D3-0647-413F-BD03-DC9241EF40A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26. Remove Duplicates from Sorted Array", "26. Remove Duplicates from Sorted Array\26. Remove Duplicates from Sorted Array.csproj", "{321DC5D3-0647-413F-BD03-DC9241EF40A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{D301967A-62D5-4463-A0BA-D5E36929B258}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27. Remove Element", "27. Remove Element\27. Remove Element.csproj", "{D301967A-62D5-4463-A0BA-D5E36929B258}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{C38BDBC9-9151-4F8C-A64A-65173FB41C80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1929. Concatenation of Array", "1929. Concatenation of Array\1929. Concatenation of Array.csproj", "{C38BDBC9-9151-4F8C-A64A-65173FB41C80}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stack", "stack\stack.csproj", "{6F37130A-1A8D-4C84-B5A3-F50D3E959403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "stack", "stack\stack.csproj", "{6F37130A-1A8D-4C84-B5A3-F50D3E959403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "682. Baseball Game", "682. Baseball Game\682. Baseball Game.csproj", "{929367D3-9EDD-472C-8CA7-8EC8D531B87A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "682. Baseball Game", "682. Baseball Game\682. Baseball Game.csproj", "{929367D3-9EDD-472C-8CA7-8EC8D531B87A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.csproj", "{6BD8D1EA-93FA-4AF9-B5B8-1632C8398C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. Valid Parentheses", "20. Valid Parentheses\20. Valid Parentheses.csproj", "{6BD8D1EA-93FA-4AF9-B5B8-1632C8398C38}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155. Min Stack", "155. Min Stack\155. Min Stack.csproj", "{216A33A7-4665-4481-8845-16626CB34993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "155. Min Stack", "155. Min Stack\155. Min Stack.csproj", "{216A33A7-4665-4481-8845-16626CB34993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{17FAC147-E991-47EE-8281-741E12C5AF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "206. Reverse Linked List", "206. Reverse Linked List\206. Reverse Linked List.csproj", "{17FAC147-E991-47EE-8281-741E12C5AF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{34E515B2-A1BC-4067-A1CB-ABCF97CB9698}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Merge Two Sorted Lists", "21. Merge Two Sorted Lists\21. Merge Two Sorted Lists.csproj", "{34E515B2-A1BC-4067-A1CB-ABCF97CB9698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "71. Simplify Path", "71. Simplify Path\71. Simplify Path.csproj", "{EB579C8E-AD55-4652-96A9-703F2A9E8099}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "71. Simplify Path", "71. Simplify Path\71. Simplify Path.csproj", "{EB579C8E-AD55-4652-96A9-703F2A9E8099}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleLinkedList", "DoubleLinkedList\DoubleLinkedList.csproj", "{4DBA9C17-EE94-4218-A6B2-74122B56CCFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "707. Design Linked List", "707. Design Linked List\707. Design Linked List.csproj", "{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "946. Validate Stack Sequences", "946. Validate Stack Sequences\946. Validate Stack Sequences.csproj", "{1C9FF209-A35C-4CD0-B188-44F75180260D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +81,18 @@ Global
 		{EB579C8E-AD55-4652-96A9-703F2A9E8099}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB579C8E-AD55-4652-96A9-703F2A9E8099}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB579C8E-AD55-4652-96A9-703F2A9E8099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBA9C17-EE94-4218-A6B2-74122B56CCFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBA9C17-EE94-4218-A6B2-74122B56CCFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBA9C17-EE94-4218-A6B2-74122B56CCFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBA9C17-EE94-4218-A6B2-74122B56CCFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
