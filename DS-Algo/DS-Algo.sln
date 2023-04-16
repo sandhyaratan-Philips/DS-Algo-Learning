@@ -29,7 +29,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleLinkedList", "DoubleL
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "707. Design Linked List", "707. Design Linked List\707. Design Linked List.csproj", "{74EE4722-00FD-4E5B-8CE6-539B5FAA7F04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "946. Validate Stack Sequences", "946. Validate Stack Sequences\946. Validate Stack Sequences.csproj", "{1C9FF209-A35C-4CD0-B188-44F75180260D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "946. Validate Stack Sequences", "946. Validate Stack Sequences\946. Validate Stack Sequences.csproj", "{1C9FF209-A35C-4CD0-B188-44F75180260D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1639. Number of Ways to Form a Target String Given a Dictionary", "1639. Number of Ways to Form a Target String Given a Dictionary\1639. Number of Ways to Form a Target String Given a Dictionary.csproj", "{FD614A13-766F-4276-9089-2297201D25F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C9FF209-A35C-4CD0-B188-44F75180260D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD614A13-766F-4276-9089-2297201D25F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD614A13-766F-4276-9089-2297201D25F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD614A13-766F-4276-9089-2297201D25F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD614A13-766F-4276-9089-2297201D25F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
