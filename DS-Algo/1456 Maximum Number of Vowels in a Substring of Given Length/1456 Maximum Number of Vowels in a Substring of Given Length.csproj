@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1456_Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length</RootNamespace>
+  </PropertyGroup>
+
+</Project>

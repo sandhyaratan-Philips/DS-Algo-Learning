@@ -37,7 +37,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1472. Design Browser Histor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "662. Maximum Width of Binary Tree", "662. Maximum Width of Binary Tree\662. Maximum Width of Binary Tree.csproj", "{ED26C46D-2E7F-4A91-A26B-AE229981FEB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{8138E0C2-F0A4-49FF-A861-7237094FC933}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1046. Last Stone Weight", "1046. Last Stone Weight\1046. Last Stone Weight.csproj", "{8138E0C2-F0A4-49FF-A861-7237094FC933}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj", "{218503AC-6662-4540-9688-249998DB5802}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2336. Smallest Number in Infinite Set", "2336. Smallest Number in Infinite Set\2336. Smallest Number in Infinite Set.csproj", "{82FAD5DF-C034-40F1-8F71-A141214FC349}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1700. Number of Students Unable to Eat Lunch", "1700. Number of Students Unable to Eat Lunch\1700. Number of Students Unable to Eat Lunch.csproj", "{2CAE0EDD-97F3-4587-925C-C95079D5A56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1456 Maximum Number of Vowels in a Substring of Given Length", "1456 Maximum Number of Vowels in a Substring of Given Length\1456 Maximum Number of Vowels in a Substring of Given Length.csproj", "{16AF831D-C1CB-4135-B28E-9244C03EDEF6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +125,22 @@ Global
 		{8138E0C2-F0A4-49FF-A861-7237094FC933}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8138E0C2-F0A4-49FF-A861-7237094FC933}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8138E0C2-F0A4-49FF-A861-7237094FC933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{218503AC-6662-4540-9688-249998DB5802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{218503AC-6662-4540-9688-249998DB5802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{218503AC-6662-4540-9688-249998DB5802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{218503AC-6662-4540-9688-249998DB5802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82FAD5DF-C034-40F1-8F71-A141214FC349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82FAD5DF-C034-40F1-8F71-A141214FC349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82FAD5DF-C034-40F1-8F71-A141214FC349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82FAD5DF-C034-40F1-8F71-A141214FC349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAE0EDD-97F3-4587-925C-C95079D5A56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAE0EDD-97F3-4587-925C-C95079D5A56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAE0EDD-97F3-4587-925C-C95079D5A56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAE0EDD-97F3-4587-925C-C95079D5A56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AF831D-C1CB-4135-B28E-9244C03EDEF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AF831D-C1CB-4135-B28E-9244C03EDEF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AF831D-C1CB-4135-B28E-9244C03EDEF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AF831D-C1CB-4135-B28E-9244C03EDEF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -3,9 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFS", "DFS\DFS.csproj", "{79008A26-8A58-4ADB-ABE1-0D3A0DA3AEBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DFS", "DFS\DFS.csproj", "{79008A26-8A58-4ADB-ABE1-0D3A0DA3AEBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BFS", "BFS\BFS.csproj", "{268CB31C-1748-4D04-B9AF-6E6B8C16DB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BFS", "BFS\BFS.csproj", "{268CB31C-1748-4D04-B9AF-6E6B8C16DB62}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect cycle in an undirected graph with DFS", "Detect cycle in an undirected graph with DFS\Detect cycle in an undirected graph with DFS.csproj", "{1B3F43AD-4724-4730-9F09-3C37BFB60D4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect cycle in an undirected graph with BFS", "Detect cycle in an undirected graph with BFS\Detect cycle in an undirected graph with BFS.csproj", "{07349DB4-41B6-4835-8464-46A990E4716A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect cycle in a directed graph with DFS", "Detect cycle in a directed graph with DFS\Detect cycle in a directed graph with DFS.csproj", "{A685EA92-BEFE-45B0-901A-D46BBB0C7FE6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Coins", "Max Coins\Max Coins.csproj", "{18B5E1D4-C7C5-476D-BE0E-C390AF973899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topological sort with DFS", "Topological sort with DFS\Topological sort with DFS.csproj", "{B0993496-4FF6-4A7E-A640-DD7C754F6009}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +31,26 @@ Global
 		{268CB31C-1748-4D04-B9AF-6E6B8C16DB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{268CB31C-1748-4D04-B9AF-6E6B8C16DB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{268CB31C-1748-4D04-B9AF-6E6B8C16DB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3F43AD-4724-4730-9F09-3C37BFB60D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3F43AD-4724-4730-9F09-3C37BFB60D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3F43AD-4724-4730-9F09-3C37BFB60D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3F43AD-4724-4730-9F09-3C37BFB60D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07349DB4-41B6-4835-8464-46A990E4716A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07349DB4-41B6-4835-8464-46A990E4716A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07349DB4-41B6-4835-8464-46A990E4716A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07349DB4-41B6-4835-8464-46A990E4716A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A685EA92-BEFE-45B0-901A-D46BBB0C7FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A685EA92-BEFE-45B0-901A-D46BBB0C7FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A685EA92-BEFE-45B0-901A-D46BBB0C7FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A685EA92-BEFE-45B0-901A-D46BBB0C7FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B5E1D4-C7C5-476D-BE0E-C390AF973899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B5E1D4-C7C5-476D-BE0E-C390AF973899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B5E1D4-C7C5-476D-BE0E-C390AF973899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B5E1D4-C7C5-476D-BE0E-C390AF973899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
