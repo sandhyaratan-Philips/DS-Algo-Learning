@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect cycle in a directed 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Coins", "Max Coins\Max Coins.csproj", "{18B5E1D4-C7C5-476D-BE0E-C390AF973899}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topological sort with DFS", "Topological sort with DFS\Topological sort with DFS.csproj", "{B0993496-4FF6-4A7E-A640-DD7C754F6009}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topological sort with DFS", "Topological sort with DFS\Topological sort with DFS.csproj", "{B0993496-4FF6-4A7E-A640-DD7C754F6009}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Topological sort with BFS", "Topological sort with BFS\Topological sort with BFS.csproj", "{C2954ECF-CBCE-400D-8CDE-A826BC7FD7AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "547. Number of Provinces with DFS", "547. Number of Provinces with DFS\547. Number of Provinces with DFS.csproj", "{A02CD596-A017-4677-8899-3B8ADAB3D0A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0993496-4FF6-4A7E-A640-DD7C754F6009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2954ECF-CBCE-400D-8CDE-A826BC7FD7AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2954ECF-CBCE-400D-8CDE-A826BC7FD7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2954ECF-CBCE-400D-8CDE-A826BC7FD7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2954ECF-CBCE-400D-8CDE-A826BC7FD7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A02CD596-A017-4677-8899-3B8ADAB3D0A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A02CD596-A017-4677-8899-3B8ADAB3D0A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A02CD596-A017-4677-8899-3B8ADAB3D0A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A02CD596-A017-4677-8899-3B8ADAB3D0A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
