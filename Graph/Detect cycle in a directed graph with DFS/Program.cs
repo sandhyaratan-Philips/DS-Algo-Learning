@@ -44,7 +44,7 @@ namespace Detect_cycle_in_a_directed_graph_with_DFS
             adj.Add(new List<int> { 1 });
             adj.Add(new List<int> { 2 });
             adj.Add(new List<int> { 3 });
-            adj.Add(new List<int> { 3 });
+            adj.Add(new List<int> { 1 });
 
             Program program = new Program();
 

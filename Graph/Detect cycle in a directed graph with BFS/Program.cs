@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Topological_sort_with_BFS
+namespace Detect_cycle_in_a_directed_graph_with_BFS
 {
-    //Kahn algo
     class Program
     {
-        public List<int> topoSort(int V, List<List<int>> adj)
+        public bool isCyclic(int V, List<List<int>> adj)
         {
-            List<int> inDegree = new List<int>(new int[V]);
             Queue<int> q = new Queue<int>();
+            int nodeCount = 1;
+
+            List<int> inDegree = new List<int>(new int[V]);
 
             for (int u = 0; u < V; u++)
             {
@@ -25,37 +26,37 @@ namespace Topological_sort_with_BFS
                     q.Enqueue(i);
             }
 
-            List<int> list = new List<int>();
             while (q.Count > 0)
             {
                 int u = q.Dequeue();
-                list.Add(u);
                 foreach (var v in adj[u])
                 {
                     inDegree[v]--;
                     if (inDegree[v] == 0)
+                    {
                         q.Enqueue(v);
+                        nodeCount++;
+                    }
                 }
             }
 
-            return list;
 
+
+            return !(nodeCount == V);
         }
         static void Main(string[] args)
         {
             List<List<int>> adj = new List<List<int>>();
             //V = 4
-
-            adj.Add(new List<int> { });
+            //adj = { {1 }, { 2}, { 3}, { 3} }
+            adj.Add(new List<int> { 1 });
+            adj.Add(new List<int> { 2 });
             adj.Add(new List<int> { 3 });
-            adj.Add(new List<int> { 3 });
-            adj.Add(new List<int> { });
-            adj.Add(new List<int> { 0, 1 });
-            adj.Add(new List<int> { 0, 2 });
+            adj.Add(new List<int> { 1 });
 
             Program program = new Program();
 
-            Console.WriteLine(program.topoSort(6, adj));
+            Console.WriteLine(program.isCyclic(4, adj));
         }
     }
 }

@@ -18,28 +18,31 @@ namespace _1498._Number_of_Subsequences_That_Satisfy_the_Given_Sum_Condition
     {
         public int NumSubseq(int[] nums, int target)
         {
-            Array.Sort(nums);
-            int n = nums.Length;
-            //pre compute Math.pow
-            int[] pow = new int[n];
-            pow[0] = 1;
-            for (int i = 1; i < n; i++)
-            {
-                pow[i] = (int)((pow[i - 1] * 2) % (10e9 + 7));
-            }
 
-            int l = 0, r = n - 1;
-            int res = 0;
-            while (l < r)
-            {
+            int kMod = 1_000_000_007;
+            int n = nums.Length;
+            int ans = 0;
+            int[] pows = new int[n];
+            pows[0] = 1;
+
+            for (int i = 1; i < n; ++i)
+                pows[i] = pows[i - 1] * 2 % kMod;
+
+            Array.Sort(nums);
+
+            for (int l = 0, r = n - 1; l <= r;)
                 if (nums[l] + nums[r] <= target)
                 {
-                    res = (int)((res % (10e9 + 7)) + (pow[r - l] % (10e9 + 7)));
-                    l++;
+                    ans += pows[r - l];
+                    ans %= kMod;
+                    ++l;
                 }
-                else { r--; }
-            }
-            return res;
+                else
+                {
+                    --r;
+                }
+
+            return ans;
         }
         static void Main(string[] args)
         {
