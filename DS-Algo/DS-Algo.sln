@@ -51,7 +51,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1498. Number of Subsequence
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1964. Find the Longest Valid Obstacle Course at Each Position", "1964. Find the Longest Valid Obstacle Course at Each Position\1964. Find the Longest Valid Obstacle Course at Each Position.csproj", "{7949C6C5-B105-407B-9385-4F8209466B90}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "54. Spiral Matrix", "54. Spiral Matrix\54. Spiral Matrix.csproj", "{2B493A94-6724-4DF2-AEDF-60B5C528D526}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "54. Spiral Matrix", "54. Spiral Matrix\54. Spiral Matrix.csproj", "{2B493A94-6724-4DF2-AEDF-60B5C528D526}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1721. Swapping Nodes in a Linked List", "1721. Swapping Nodes in a Linked List\1721. Swapping Nodes in a Linked List.csproj", "{5334C08B-44A9-48D0-978C-A401AB439109}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Swap Nodes in Pairs", "24. Swap Nodes in Pairs\24. Swap Nodes in Pairs.csproj", "{1F5D3797-0620-45C0-B81E-E27A57BC1702}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{C8811204-1381-4D98-B4EA-1D43FB6E2B34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2130. Maximum Twin Sum of a Linked List", "2130. Maximum Twin Sum of a Linked List\2130. Maximum Twin Sum of a Linked List.csproj", "{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +167,22 @@ Global
 		{2B493A94-6724-4DF2-AEDF-60B5C528D526}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B493A94-6724-4DF2-AEDF-60B5C528D526}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B493A94-6724-4DF2-AEDF-60B5C528D526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5334C08B-44A9-48D0-978C-A401AB439109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5334C08B-44A9-48D0-978C-A401AB439109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5334C08B-44A9-48D0-978C-A401AB439109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5334C08B-44A9-48D0-978C-A401AB439109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5D3797-0620-45C0-B81E-E27A57BC1702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5D3797-0620-45C0-B81E-E27A57BC1702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5D3797-0620-45C0-B81E-E27A57BC1702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5D3797-0620-45C0-B81E-E27A57BC1702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8811204-1381-4D98-B4EA-1D43FB6E2B34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8811204-1381-4D98-B4EA-1D43FB6E2B34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8811204-1381-4D98-B4EA-1D43FB6E2B34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8811204-1381-4D98-B4EA-1D43FB6E2B34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
