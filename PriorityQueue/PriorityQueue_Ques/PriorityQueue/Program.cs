@@ -16,8 +16,13 @@ namespace PriorityQueue
     {
         static void Main(string[] args)
         {
-            PriorityQueue<int, string> q = new PriorityQueue<int, string>
-            (data, new MyComparer());
+            PriorityQueue<int> q = new PriorityQueue<int>(new MyComparer());
+            q.Enqueue(4);
+            q.Enqueue(6);
+            q.Enqueue(-1);
+
+
+
             Console.WriteLine("Hello World!");
         }
     }
