@@ -23,11 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "547. Number of Provinces wi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "547. Number of Provinces with BFS", "547. Number of Provinces with BFS\547. Number of Provinces with BFS.csproj", "{F36EE172-B827-48FA-A5DC-4137C526B8E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Detect cycle in a directed graph with BFS", "Detect cycle in a directed graph with BFS\Detect cycle in a directed graph with BFS.csproj", "{BE11DCE3-593A-4080-978D-37B1A97D12F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect cycle in a directed graph with BFS", "Detect cycle in a directed graph with BFS\Detect cycle in a directed graph with BFS.csproj", "{BE11DCE3-593A-4080-978D-37B1A97D12F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "207. Course Schedule using BFS", "207. Course Schedule using BFS\207. Course Schedule using BFS.csproj", "{01C0DEC1-AC58-4A03-B762-7DA5C181D3BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "207. Course Schedule using BFS", "207. Course Schedule using BFS\207. Course Schedule using BFS.csproj", "{01C0DEC1-AC58-4A03-B762-7DA5C181D3BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "210. Course Schedule II using BFS", "210. Course Schedule II using BFS\210. Course Schedule II using BFS.csproj", "{1320C8D5-F1B4-44B3-8C5E-767FCB9CEAB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "210. Course Schedule II using BFS", "210. Course Schedule II using BFS\210. Course Schedule II using BFS.csproj", "{1320C8D5-F1B4-44B3-8C5E-767FCB9CEAB9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bipartite Graph", "Bipartite Graph\Bipartite Graph.csproj", "{1E0CD6C9-4F1D-4D2F-9386-AE8C02C8C22B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1557. Minimum Number of Vertices to Reach All Nodes", "1557. Minimum Number of Vertices to Reach All Nodes\1557. Minimum Number of Vertices to Reach All Nodes.csproj", "{C3194EAF-8617-4950-9640-98EB57EB7479}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "934. Shortest Bridge", "934. Shortest Bridge\934. Shortest Bridge.csproj", "{950DB70E-1051-4F06-AB6F-3CC8DE43762A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "399. Evaluate Division", "399. Evaluate Division\399. Evaluate Division.csproj", "{B3384F2B-92D1-420F-94DF-1DF72B407930}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +95,22 @@ Global
 		{1320C8D5-F1B4-44B3-8C5E-767FCB9CEAB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1320C8D5-F1B4-44B3-8C5E-767FCB9CEAB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1320C8D5-F1B4-44B3-8C5E-767FCB9CEAB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E0CD6C9-4F1D-4D2F-9386-AE8C02C8C22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E0CD6C9-4F1D-4D2F-9386-AE8C02C8C22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E0CD6C9-4F1D-4D2F-9386-AE8C02C8C22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E0CD6C9-4F1D-4D2F-9386-AE8C02C8C22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3194EAF-8617-4950-9640-98EB57EB7479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3194EAF-8617-4950-9640-98EB57EB7479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3194EAF-8617-4950-9640-98EB57EB7479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3194EAF-8617-4950-9640-98EB57EB7479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{950DB70E-1051-4F06-AB6F-3CC8DE43762A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{950DB70E-1051-4F06-AB6F-3CC8DE43762A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{950DB70E-1051-4F06-AB6F-3CC8DE43762A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{950DB70E-1051-4F06-AB6F-3CC8DE43762A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
