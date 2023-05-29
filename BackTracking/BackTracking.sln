@@ -5,7 +5,13 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79. Word Search", "79. Word Search\79. Word Search.csproj", "{E8D6B740-40E8-4C8C-B3B6-DD124B157D94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "212. Word Search II", "212. Word Search II\212. Word Search II.csproj", "{6F7D017D-A535-4FAA-8F09-0A18ADE24FB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "212. Word Search II", "212. Word Search II\212. Word Search II.csproj", "{6F7D017D-A535-4FAA-8F09-0A18ADE24FB0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "491. Non-decreasing Subsequences", "491. Non-decreasing Subsequences\491. Non-decreasing Subsequences.csproj", "{5BD97E77-05C5-44FC-BDDA-EB0710786766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "980. Unique Paths III", "980. Unique Paths III\980. Unique Paths III.csproj", "{7E47E625-7C42-408B-8D79-5CE5941B2D06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "131. Palindrome Partitioning", "131. Palindrome Partitioning\131. Palindrome Partitioning.csproj", "{C096191C-3552-46D2-B542-8CAC12E6BEAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{6F7D017D-A535-4FAA-8F09-0A18ADE24FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F7D017D-A535-4FAA-8F09-0A18ADE24FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F7D017D-A535-4FAA-8F09-0A18ADE24FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD97E77-05C5-44FC-BDDA-EB0710786766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD97E77-05C5-44FC-BDDA-EB0710786766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD97E77-05C5-44FC-BDDA-EB0710786766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD97E77-05C5-44FC-BDDA-EB0710786766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E47E625-7C42-408B-8D79-5CE5941B2D06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E47E625-7C42-408B-8D79-5CE5941B2D06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E47E625-7C42-408B-8D79-5CE5941B2D06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E47E625-7C42-408B-8D79-5CE5941B2D06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

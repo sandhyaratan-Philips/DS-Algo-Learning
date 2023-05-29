@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Swap Nodes in Pairs", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "25. Reverse Nodes in k-Group", "25. Reverse Nodes in k-Group\25. Reverse Nodes in k-Group.csproj", "{C8811204-1381-4D98-B4EA-1D43FB6E2B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2130. Maximum Twin Sum of a Linked List", "2130. Maximum Twin Sum of a Linked List\2130. Maximum Twin Sum of a Linked List.csproj", "{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2130. Maximum Twin Sum of a Linked List", "2130. Maximum Twin Sum of a Linked List\2130. Maximum Twin Sum of a Linked List.csproj", "{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1603. Design Parking System", "1603. Design Parking System\1603. Design Parking System.csproj", "{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0BFA683-0CE2-46A7-B85B-B3CE1ADC6581}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

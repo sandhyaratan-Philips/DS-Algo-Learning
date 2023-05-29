@@ -35,7 +35,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1557. Minimum Number of Ver
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "934. Shortest Bridge", "934. Shortest Bridge\934. Shortest Bridge.csproj", "{950DB70E-1051-4F06-AB6F-3CC8DE43762A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "399. Evaluate Division", "399. Evaluate Division\399. Evaluate Division.csproj", "{B3384F2B-92D1-420F-94DF-1DF72B407930}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "399. Evaluate Division", "399. Evaluate Division\399. Evaluate Division.csproj", "{B3384F2B-92D1-420F-94DF-1DF72B407930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest path using bfs", "Shortest path using bfs\Shortest path using bfs.csproj", "{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3384F2B-92D1-420F-94DF-1DF72B407930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
