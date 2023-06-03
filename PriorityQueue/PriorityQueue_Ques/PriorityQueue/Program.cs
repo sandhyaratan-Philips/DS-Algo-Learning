@@ -9,7 +9,7 @@ namespace PriorityQueue
         {
             // "inverted" comparison
             // direct comparison of integers should return x - y
-            return y - x;
+            return x - y;
         }
     }
     class Program

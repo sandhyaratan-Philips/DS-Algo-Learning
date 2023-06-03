@@ -37,7 +37,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "934. Shortest Bridge", "934
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "399. Evaluate Division", "399. Evaluate Division\399. Evaluate Division.csproj", "{B3384F2B-92D1-420F-94DF-1DF72B407930}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest path using bfs", "Shortest path using bfs\Shortest path using bfs.csproj", "{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest path using bfs", "Shortest path using bfs\Shortest path using bfs.csproj", "{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2101. Detonate the Maximum Bombs", "2101. Detonate the Maximum Bombs\2101. Detonate the Maximum Bombs.csproj", "{E8911F29-902C-46A3-B169-7534E350CD99}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Detect Cycle using DSU", "Detect Cycle using DSU\Detect Cycle using DSU.csproj", "{FF80E7E1-D7E3-4CDF-9721-DF649F1D7306}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "990. Satisfiability of Equality Equations", "990. Satisfiability of Equality Equations\990. Satisfiability of Equality Equations.csproj", "{00F21697-C61B-4F4D-BFB0-3EC946147B43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1319. Number of Operations to Make Network Connected", "1319. Number of Operations to Make Network Connected\1319. Number of Operations to Make Network Connected.csproj", "{B876FE3F-92BA-478B-B8F0-46B56B1B1EE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2316. Count Unreachable Pairs of Nodes in an Undirected Graph", "2316. Count Unreachable Pairs of Nodes in an Undirected Graph\2316. Count Unreachable Pairs of Nodes in an Undirected Graph.csproj", "{DFB8A23B-6CC2-41FF-8FB6-3F9973947699}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Dijkstra Algorithm", "Implementing Dijkstra Algorithm\Implementing Dijkstra Algorithm.csproj", "{7FBA5049-C99A-46AF-B454-725677CEFA0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1376. Time Needed to Inform All Employees", "1376. Time Needed to Inform All Employees\1376. Time Needed to Inform All Employees.csproj", "{57EAC730-4F50-444C-8CB7-2E6F25456558}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Dijkstra Algorithm with set", "Implementing Dijkstra Algorithm with set\Implementing Dijkstra Algorithm with set.csproj", "{9A94D892-58F2-4D75-ACD7-13A2BE142B59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +133,38 @@ Global
 		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC014C36-0D5E-4383-8F9D-9BB58FE52C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8911F29-902C-46A3-B169-7534E350CD99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8911F29-902C-46A3-B169-7534E350CD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8911F29-902C-46A3-B169-7534E350CD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8911F29-902C-46A3-B169-7534E350CD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF80E7E1-D7E3-4CDF-9721-DF649F1D7306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF80E7E1-D7E3-4CDF-9721-DF649F1D7306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF80E7E1-D7E3-4CDF-9721-DF649F1D7306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF80E7E1-D7E3-4CDF-9721-DF649F1D7306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F21697-C61B-4F4D-BFB0-3EC946147B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F21697-C61B-4F4D-BFB0-3EC946147B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F21697-C61B-4F4D-BFB0-3EC946147B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F21697-C61B-4F4D-BFB0-3EC946147B43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B876FE3F-92BA-478B-B8F0-46B56B1B1EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B876FE3F-92BA-478B-B8F0-46B56B1B1EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B876FE3F-92BA-478B-B8F0-46B56B1B1EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B876FE3F-92BA-478B-B8F0-46B56B1B1EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB8A23B-6CC2-41FF-8FB6-3F9973947699}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB8A23B-6CC2-41FF-8FB6-3F9973947699}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB8A23B-6CC2-41FF-8FB6-3F9973947699}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB8A23B-6CC2-41FF-8FB6-3F9973947699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FBA5049-C99A-46AF-B454-725677CEFA0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FBA5049-C99A-46AF-B454-725677CEFA0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FBA5049-C99A-46AF-B454-725677CEFA0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FBA5049-C99A-46AF-B454-725677CEFA0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57EAC730-4F50-444C-8CB7-2E6F25456558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57EAC730-4F50-444C-8CB7-2E6F25456558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57EAC730-4F50-444C-8CB7-2E6F25456558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57EAC730-4F50-444C-8CB7-2E6F25456558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
