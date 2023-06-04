@@ -20,7 +20,7 @@ namespace PriorityQueue
             q.Enqueue(4);
             q.Enqueue(6);
             q.Enqueue(-1);
-
+            q.Enqueue(0);
 
 
             Console.WriteLine("Hello World!");

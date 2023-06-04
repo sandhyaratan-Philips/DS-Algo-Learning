@@ -51,9 +51,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2316. Count Unreachable Pai
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Dijkstra Algorithm", "Implementing Dijkstra Algorithm\Implementing Dijkstra Algorithm.csproj", "{7FBA5049-C99A-46AF-B454-725677CEFA0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1376. Time Needed to Inform All Employees", "1376. Time Needed to Inform All Employees\1376. Time Needed to Inform All Employees.csproj", "{57EAC730-4F50-444C-8CB7-2E6F25456558}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1376. Time Needed to Inform All Employees", "1376. Time Needed to Inform All Employees\1376. Time Needed to Inform All Employees.csproj", "{57EAC730-4F50-444C-8CB7-2E6F25456558}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Dijkstra Algorithm with set", "Implementing Dijkstra Algorithm with set\Implementing Dijkstra Algorithm with set.csproj", "{9A94D892-58F2-4D75-ACD7-13A2BE142B59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Dijkstra Algorithm with set", "Implementing Dijkstra Algorithm with set\Implementing Dijkstra Algorithm with set.csproj", "{9A94D892-58F2-4D75-ACD7-13A2BE142B59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Dijkstra Algorithm with Priority Queue", "Implementing Dijkstra Algorithm with Priority Queue\Implementing Dijkstra Algorithm with Priority Queue.csproj", "{991A758E-05D0-43B0-9961-34C6781A48EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Path in Weighted undirected graph", "Shortest Path in Weighted undirected graph\Shortest Path in Weighted undirected graph.csproj", "{16671427-1CCD-4575-8623-C8B4A018347F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "743. Network Delay Time", "743. Network Delay Time\743. Network Delay Time.csproj", "{05E3F1BE-A57A-446D-85CF-542204C32B04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +171,18 @@ Global
 		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A94D892-58F2-4D75-ACD7-13A2BE142B59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991A758E-05D0-43B0-9961-34C6781A48EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991A758E-05D0-43B0-9961-34C6781A48EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991A758E-05D0-43B0-9961-34C6781A48EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991A758E-05D0-43B0-9961-34C6781A48EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16671427-1CCD-4575-8623-C8B4A018347F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16671427-1CCD-4575-8623-C8B4A018347F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16671427-1CCD-4575-8623-C8B4A018347F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16671427-1CCD-4575-8623-C8B4A018347F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
