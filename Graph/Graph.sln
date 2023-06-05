@@ -55,11 +55,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1376. Time Needed to Inform
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Dijkstra Algorithm with set", "Implementing Dijkstra Algorithm with set\Implementing Dijkstra Algorithm with set.csproj", "{9A94D892-58F2-4D75-ACD7-13A2BE142B59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implementing Dijkstra Algorithm with Priority Queue", "Implementing Dijkstra Algorithm with Priority Queue\Implementing Dijkstra Algorithm with Priority Queue.csproj", "{991A758E-05D0-43B0-9961-34C6781A48EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implementing Dijkstra Algorithm with Priority Queue", "Implementing Dijkstra Algorithm with Priority Queue\Implementing Dijkstra Algorithm with Priority Queue.csproj", "{991A758E-05D0-43B0-9961-34C6781A48EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Path in Weighted undirected graph", "Shortest Path in Weighted undirected graph\Shortest Path in Weighted undirected graph.csproj", "{16671427-1CCD-4575-8623-C8B4A018347F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Path in Weighted undirected graph", "Shortest Path in Weighted undirected graph\Shortest Path in Weighted undirected graph.csproj", "{16671427-1CCD-4575-8623-C8B4A018347F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "743. Network Delay Time", "743. Network Delay Time\743. Network Delay Time.csproj", "{05E3F1BE-A57A-446D-85CF-542204C32B04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "743. Network Delay Time", "743. Network Delay Time\743. Network Delay Time.csproj", "{05E3F1BE-A57A-446D-85CF-542204C32B04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091. Shortest Path in Binary Matrix", "1091. Shortest Path in Binary Matrix\1091. Shortest Path in Binary Matrix.csproj", "{DBF801EE-E5AF-49AA-815C-26257B611C05}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05E3F1BE-A57A-446D-85CF-542204C32B04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
