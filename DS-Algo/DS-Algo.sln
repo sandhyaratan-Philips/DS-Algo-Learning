@@ -63,7 +63,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2130. Maximum Twin Sum of a
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603. Design Parking System", "1603. Design Parking System\1603. Design Parking System.csproj", "{D0BFB380-EF36-4B79-B6A8-3D44C93DED13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1396. Design Underground System", "1396. Design Underground System\1396. Design Underground System.csproj", "{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1396. Design Underground System", "1396. Design Underground System\1396. Design Underground System.csproj", "{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{8D2494A2-23F9-4A69-B882-34D404403B68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +197,10 @@ Global
 		{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D2494A2-23F9-4A69-B882-34D404403B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D2494A2-23F9-4A69-B882-34D404403B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D2494A2-23F9-4A69-B882-34D404403B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D2494A2-23F9-4A69-B882-34D404403B68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

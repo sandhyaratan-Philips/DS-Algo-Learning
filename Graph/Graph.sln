@@ -61,7 +61,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Path in Weighted u
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "743. Network Delay Time", "743. Network Delay Time\743. Network Delay Time.csproj", "{05E3F1BE-A57A-446D-85CF-542204C32B04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091. Shortest Path in Binary Matrix", "1091. Shortest Path in Binary Matrix\1091. Shortest Path in Binary Matrix.csproj", "{DBF801EE-E5AF-49AA-815C-26257B611C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1091. Shortest Path in Binary Matrix", "1091. Shortest Path in Binary Matrix\1091. Shortest Path in Binary Matrix.csproj", "{DBF801EE-E5AF-49AA-815C-26257B611C05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1091. Shortest Path in Binary Matrix using dijkstra", "1091. Shortest Path in Binary Matrix using dijkstra\1091. Shortest Path in Binary Matrix using dijkstra.csproj", "{3B58AD98-9C7D-427F-9792-7A57E1A64841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1631. Path With Minimum Effort", "1631. Path With Minimum Effort\1631. Path With Minimum Effort.csproj", "{830E4FB3-FCDA-49CB-8DB1-D56D42D8AA85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance from the Source (Bellman-Ford Algorithm)", "Distance from the Source (Bellman-Ford Algorithm)\Distance from the Source (Bellman-Ford Algorithm).csproj", "{9573CF54-F035-47D8-A00A-47A03B9AB7C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd Warshall", "Floyd Warshall\Floyd Warshall.csproj", "{44327216-F152-4EBA-AD64-DB05F94706BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +197,22 @@ Global
 		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF801EE-E5AF-49AA-815C-26257B611C05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B58AD98-9C7D-427F-9792-7A57E1A64841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B58AD98-9C7D-427F-9792-7A57E1A64841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B58AD98-9C7D-427F-9792-7A57E1A64841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B58AD98-9C7D-427F-9792-7A57E1A64841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{830E4FB3-FCDA-49CB-8DB1-D56D42D8AA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830E4FB3-FCDA-49CB-8DB1-D56D42D8AA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830E4FB3-FCDA-49CB-8DB1-D56D42D8AA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830E4FB3-FCDA-49CB-8DB1-D56D42D8AA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9573CF54-F035-47D8-A00A-47A03B9AB7C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9573CF54-F035-47D8-A00A-47A03B9AB7C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9573CF54-F035-47D8-A00A-47A03B9AB7C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9573CF54-F035-47D8-A00A-47A03B9AB7C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44327216-F152-4EBA-AD64-DB05F94706BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44327216-F152-4EBA-AD64-DB05F94706BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44327216-F152-4EBA-AD64-DB05F94706BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44327216-F152-4EBA-AD64-DB05F94706BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
