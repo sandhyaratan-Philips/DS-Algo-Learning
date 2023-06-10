@@ -45,34 +45,40 @@ namespace _427._Construct_Quad_Tree
     {
         public Node Construct(int[][] grid)
         {
-            return Solve(grid, 0, 0, grid.Length);
+            return solve(grid, 0, 0, grid.Length);
         }
 
-        public Node Solve(int[][] grid, int x, int y, int n)
+        Node solve(int[][] grid, int x, int y, int n)
         {
-            if (isAllValueSame(grid, x, y, n))
-                return new Node(Convert.ToBoolean(grid[x][y]), true);
+            if (isAllSame(grid, x, y, n))
+            {
+                return new Node(grid[x][y] == 1 ? true : false, true);
+            }
             else
             {
                 Node root = new Node(true, false);
-                root.topLeft = Solve(grid, x, y, n / 2);
-                root.topRight = Solve(grid, x, y + n / 2, n / 2);
-                root.bottomLeft = Solve(grid, x + n / 2, y, n / 2);
-                root.bottomRight = Solve(grid, x + n / 2, y + n / 2, n / 2);
+
+                root.topLeft = solve(grid, x, y, n / 2);
+                root.topRight = solve(grid, x, y + n / 2, n / 2);
+                root.bottomLeft = solve(grid, x + n / 2, y, n / 2);
+                root.bottomRight = solve(grid, x + n / 2, y + n / 2, n / 2);
+
                 return root;
             }
         }
-
-        private bool isAllValueSame(int[][] grid, int x, int y, int n)
+        bool isAllSame(int[][] grid, int x, int y, int n)
         {
             int val = grid[x][y];
+
             for (int i = x; i < x + n; i++)
             {
                 for (int j = y; j < y + n; j++)
                 {
-                    if (val != grid[i][y]) return false;
+                    if (grid[i][j] != val)
+                        return false;
                 }
             }
+
             return true;
         }
 
