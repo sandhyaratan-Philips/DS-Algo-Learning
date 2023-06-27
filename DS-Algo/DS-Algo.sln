@@ -65,7 +65,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1603. Design Parking System
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1396. Design Underground System", "1396. Design Underground System\1396. Design Underground System.csproj", "{2F559F94-6A7F-4F9D-AA29-5E8A4F4B06BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{8D2494A2-23F9-4A69-B882-34D404403B68}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1502. Can Make Arithmetic Progression From Sequence", "1502. Can Make Arithmetic Progression From Sequence\1502. Can Make Arithmetic Progression From Sequence.csproj", "{8D2494A2-23F9-4A69-B882-34D404403B68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1146. Snapshot Array", "1146. Snapshot Array\1146. Snapshot Array.csproj", "{114EF5AB-33A0-464E-9A39-1DDCEDEAAF4D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2352. Equal Row and Column Pairs", "2352. Equal Row and Column Pairs\2352. Equal Row and Column Pairs.csproj", "{E93A531E-97E3-4D0D-B63A-38FE170F5249}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1161. Maximum Level Sum of a Binary Tree", "1161. Maximum Level Sum of a Binary Tree\1161. Maximum Level Sum of a Binary Tree.csproj", "{168298D1-D9F4-4519-8FA6-0DA39ED167E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2328. Number of Increasing Paths in a Grid", "2328. Number of Increasing Paths in a Grid\2328. Number of Increasing Paths in a Grid.csproj", "{934A3E6F-9252-418C-BC37-5CE714DEE530}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2090. K Radius Subarray Averages_PrefixSum", "2090. K Radius Subarray Averages_PrefixSum\2090. K Radius Subarray Averages_PrefixSum.csproj", "{CDF5D797-13E8-42DF-95C7-CF81DEC589C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2090. K Radius Subarray Averages_slidingWindow", "2090. K Radius Subarray Averages_slidingWindow\2090. K Radius Subarray Averages_slidingWindow.csproj", "{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2448. Minimum Cost to Make Array Equal", "2448. Minimum Cost to Make Array Equal\2448. Minimum Cost to Make Array Equal.csproj", "{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -201,6 +215,34 @@ Global
 		{8D2494A2-23F9-4A69-B882-34D404403B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2494A2-23F9-4A69-B882-34D404403B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2494A2-23F9-4A69-B882-34D404403B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114EF5AB-33A0-464E-9A39-1DDCEDEAAF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114EF5AB-33A0-464E-9A39-1DDCEDEAAF4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114EF5AB-33A0-464E-9A39-1DDCEDEAAF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114EF5AB-33A0-464E-9A39-1DDCEDEAAF4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93A531E-97E3-4D0D-B63A-38FE170F5249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93A531E-97E3-4D0D-B63A-38FE170F5249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93A531E-97E3-4D0D-B63A-38FE170F5249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93A531E-97E3-4D0D-B63A-38FE170F5249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168298D1-D9F4-4519-8FA6-0DA39ED167E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168298D1-D9F4-4519-8FA6-0DA39ED167E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168298D1-D9F4-4519-8FA6-0DA39ED167E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168298D1-D9F4-4519-8FA6-0DA39ED167E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{934A3E6F-9252-418C-BC37-5CE714DEE530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{934A3E6F-9252-418C-BC37-5CE714DEE530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{934A3E6F-9252-418C-BC37-5CE714DEE530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{934A3E6F-9252-418C-BC37-5CE714DEE530}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF5D797-13E8-42DF-95C7-CF81DEC589C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF5D797-13E8-42DF-95C7-CF81DEC589C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF5D797-13E8-42DF-95C7-CF81DEC589C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF5D797-13E8-42DF-95C7-CF81DEC589C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

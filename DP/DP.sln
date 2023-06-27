@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "714. Best Time to Buy and Sell Stock with Transaction Fee", "714. Best Time to Buy and Sell Stock with Transaction Fee\714. Best Time to Buy and Sell Stock with Transaction Fee.csproj", "{D4E7EEF9-E07A-4660-928E-706B6D6D1711}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and Sell Stock with Cooldown", "309. Best Time to Buy and Sell Stock with Cooldown\309. Best Time to Buy and Sell Stock with Cooldown.csproj", "{399B973D-75EE-42B8-AB32-98C88A154DA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1027. Longest Arithmetic Subsequence", "1027. Longest Arithmetic Subsequence\1027. Longest Arithmetic Subsequence.csproj", "{9E43B3FB-02BD-4512-9388-7B35F5A81216}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "956. Tallest Billboard", "956. Tallest Billboard\956. Tallest Billboard.csproj", "{84BB3872-7498-4880-B12B-DC2EF6E42DC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_956._Tallest_Billboard_Memorization", "_956._Tallest_Billboard_Memorization\_956._Tallest_Billboard_Memorization.csproj", "{7615A037-3103-4E35-A6D5-6CCC37C0FB19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1575. Count All Possible Routes", "1575. Count All Possible Routes\1575. Count All Possible Routes.csproj", "{97143BD6-0352-43C5-B7DE-66D2493008FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "309. Best Time to Buy and Sell Stock with Cooldown bottom up", "309. Best Time to Buy and Sell Stock with Cooldown bottom up\309. Best Time to Buy and Sell Stock with Cooldown bottom up.csproj", "{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E7EEF9-E07A-4660-928E-706B6D6D1711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E7EEF9-E07A-4660-928E-706B6D6D1711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E7EEF9-E07A-4660-928E-706B6D6D1711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E7EEF9-E07A-4660-928E-706B6D6D1711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{399B973D-75EE-42B8-AB32-98C88A154DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{399B973D-75EE-42B8-AB32-98C88A154DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{399B973D-75EE-42B8-AB32-98C88A154DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{399B973D-75EE-42B8-AB32-98C88A154DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E43B3FB-02BD-4512-9388-7B35F5A81216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E43B3FB-02BD-4512-9388-7B35F5A81216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E43B3FB-02BD-4512-9388-7B35F5A81216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E43B3FB-02BD-4512-9388-7B35F5A81216}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84BB3872-7498-4880-B12B-DC2EF6E42DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84BB3872-7498-4880-B12B-DC2EF6E42DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84BB3872-7498-4880-B12B-DC2EF6E42DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84BB3872-7498-4880-B12B-DC2EF6E42DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7615A037-3103-4E35-A6D5-6CCC37C0FB19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7615A037-3103-4E35-A6D5-6CCC37C0FB19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7615A037-3103-4E35-A6D5-6CCC37C0FB19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7615A037-3103-4E35-A6D5-6CCC37C0FB19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97143BD6-0352-43C5-B7DE-66D2493008FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97143BD6-0352-43C5-B7DE-66D2493008FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97143BD6-0352-43C5-B7DE-66D2493008FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97143BD6-0352-43C5-B7DE-66D2493008FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {862ACE69-5758-4424-91EA-DDA91BF12AEB}
+	EndGlobalSection
+EndGlobal
