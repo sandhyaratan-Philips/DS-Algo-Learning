@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "373. Find K Pairs with Smallest Sums", "373. Find K Pairs with Smallest Sums\373. Find K Pairs with Smallest Sums.csproj", "{B8E99EFA-765B-4BE9-8FA5-3234B6AE22F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "373. Find K Pairs with Smallest Sums", "373. Find K Pairs with Smallest Sums\373. Find K Pairs with Smallest Sums.csproj", "{945D793E-201D-4731-88A6-D1FDED2202CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B8E99EFA-765B-4BE9-8FA5-3234B6AE22F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8E99EFA-765B-4BE9-8FA5-3234B6AE22F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8E99EFA-765B-4BE9-8FA5-3234B6AE22F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8E99EFA-765B-4BE9-8FA5-3234B6AE22F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{945D793E-201D-4731-88A6-D1FDED2202CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{945D793E-201D-4731-88A6-D1FDED2202CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{945D793E-201D-4731-88A6-D1FDED2202CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{945D793E-201D-4731-88A6-D1FDED2202CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {17877A34-C9B4-496A-B865-DCC0CF2D123C}
+		SolutionGuid = {8126C867-B840-4DDD-9C2E-6284E7C4348A}
 	EndGlobalSection
 EndGlobal
