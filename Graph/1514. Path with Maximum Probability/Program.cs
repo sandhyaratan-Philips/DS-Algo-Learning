@@ -60,7 +60,7 @@ namespace _1514._Path_with_Maximum_Probability
         {
             Program program = new Program();
             //n = 3, edges = [[0,1],[1,2],[0,2]], succProb = [0.5,0.5,0.3], start = 0, end = 2
-            program.MaxProbability(3, new int[][] { new int[] { 0, 1 } }, new double[] { 0.5 }, 0, 2);
+            program.MaxProbability(3, new int[][] { new int[] { 0, 1 }, new int[] { 1, 2 }, new int[] { 0, 2 } }, new double[] { 0.5, 0.5, 0.2 }, 0, 2);
             Console.WriteLine("Hello World!");
         }
     }

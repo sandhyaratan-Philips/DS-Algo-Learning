@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "212. Word Search II", "212.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "491. Non-decreasing Subsequences", "491. Non-decreasing Subsequences\491. Non-decreasing Subsequences.csproj", "{5BD97E77-05C5-44FC-BDDA-EB0710786766}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "980. Unique Paths III", "980. Unique Paths III\980. Unique Paths III.csproj", "{7E47E625-7C42-408B-8D79-5CE5941B2D06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "980. Unique Paths III", "980. Unique Paths III\980. Unique Paths III.csproj", "{7E47E625-7C42-408B-8D79-5CE5941B2D06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "131. Palindrome Partitioning", "131. Palindrome Partitioning\131. Palindrome Partitioning.csproj", "{C096191C-3552-46D2-B542-8CAC12E6BEAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "131. Palindrome Partitioning", "131. Palindrome Partitioning\131. Palindrome Partitioning.csproj", "{C096191C-3552-46D2-B542-8CAC12E6BEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2305. Fair Distribution of Cookies", "2305. Fair Distribution of Cookies\2305. Fair Distribution of Cookies.csproj", "{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C096191C-3552-46D2-B542-8CAC12E6BEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

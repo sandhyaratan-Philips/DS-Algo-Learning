@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_864._Shortest_Path_to_Get_All_Keys</RootNamespace>
+  </PropertyGroup>
+
+</Project>
