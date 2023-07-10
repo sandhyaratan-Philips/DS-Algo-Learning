@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1802. Maximum Value at a Gi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "938. Range Sum of BST", "938. Range Sum of BST\938. Range Sum of BST.csproj", "{0B1DCDBC-4227-47CF-9941-A078B7EADED6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1970. Last Day Where You Can Still Cross", "1970. Last Day Where You Can Still Cross\1970. Last Day Where You Can Still Cross.csproj", "{62C76C22-DCB2-4ABE-AAC0-87F24D23102E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1970. Last Day Where You Can Still Cross", "1970. Last Day Where You Can Still Cross\1970. Last Day Where You Can Still Cross.csproj", "{62C76C22-DCB2-4ABE-AAC0-87F24D23102E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "111. Minimum Depth of Binary Tree", "111. Minimum Depth of Binary Tree\111. Minimum Depth of Binary Tree.csproj", "{697EF529-B895-4324-8854-D7660A196A73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{62C76C22-DCB2-4ABE-AAC0-87F24D23102E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{62C76C22-DCB2-4ABE-AAC0-87F24D23102E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{62C76C22-DCB2-4ABE-AAC0-87F24D23102E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697EF529-B895-4324-8854-D7660A196A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697EF529-B895-4324-8854-D7660A196A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697EF529-B895-4324-8854-D7660A196A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697EF529-B895-4324-8854-D7660A196A73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

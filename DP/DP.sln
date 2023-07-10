@@ -11,11 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1027. Longest Arithmetic Su
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "956. Tallest Billboard", "956. Tallest Billboard\956. Tallest Billboard.csproj", "{84BB3872-7498-4880-B12B-DC2EF6E42DC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_956._Tallest_Billboard_Memorization", "_956._Tallest_Billboard_Memorization\_956._Tallest_Billboard_Memorization.csproj", "{7615A037-3103-4E35-A6D5-6CCC37C0FB19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_956._Tallest_Billboard_Memorization", "_956._Tallest_Billboard_Memorization\_956._Tallest_Billboard_Memorization.csproj", "{7615A037-3103-4E35-A6D5-6CCC37C0FB19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1575. Count All Possible Routes", "1575. Count All Possible Routes\1575. Count All Possible Routes.csproj", "{97143BD6-0352-43C5-B7DE-66D2493008FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1575. Count All Possible Routes", "1575. Count All Possible Routes\1575. Count All Possible Routes.csproj", "{97143BD6-0352-43C5-B7DE-66D2493008FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "309. Best Time to Buy and Sell Stock with Cooldown bottom up", "309. Best Time to Buy and Sell Stock with Cooldown bottom up\309. Best Time to Buy and Sell Stock with Cooldown bottom up.csproj", "{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and Sell Stock with Cooldown bottom up", "309. Best Time to Buy and Sell Stock with Cooldown bottom up\309. Best Time to Buy and Sell Stock with Cooldown bottom up.csproj", "{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2272. Substring With Largest Variance", "2272. Substring With Largest Variance\2272. Substring With Largest Variance.csproj", "{1B311810-BE44-494B-A2DC-B0CB3E485C2E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{255FA0AC-5EC7-432B-8A13-A8F02B262AD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B311810-BE44-494B-A2DC-B0CB3E485C2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B311810-BE44-494B-A2DC-B0CB3E485C2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B311810-BE44-494B-A2DC-B0CB3E485C2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B311810-BE44-494B-A2DC-B0CB3E485C2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1318. Minimum Flips to Make a OR b Equal to c", "1318. Minimum Flips to Make a OR b Equal to c\1318. Minimum Flips to Make a OR b Equal to c.csproj", "{1663E127-AC71-4712-857C-9F7BBAA8854E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "137. Single Number II", "137. Single Number II\137. Single Number II.csproj", "{9D8FC673-09C3-4016-9E0B-EB596DD6842F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1663E127-AC71-4712-857C-9F7BBAA8854E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1663E127-AC71-4712-857C-9F7BBAA8854E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1663E127-AC71-4712-857C-9F7BBAA8854E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1663E127-AC71-4712-857C-9F7BBAA8854E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8FC673-09C3-4016-9E0B-EB596DD6842F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8FC673-09C3-4016-9E0B-EB596DD6842F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8FC673-09C3-4016-9E0B-EB596DD6842F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8FC673-09C3-4016-9E0B-EB596DD6842F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262F246F-3006-4513-86DF-816D58BC4C6D}
+	EndGlobalSection
+EndGlobal

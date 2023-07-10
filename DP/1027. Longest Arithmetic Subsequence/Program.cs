@@ -6,7 +6,6 @@ namespace _1027._Longest_Arithmetic_Subsequence
     {
         public int LongestArithSeqLength(int[] nums)
         {
-            int n = nums.Length;
 
         }
         static void Main(string[] args)

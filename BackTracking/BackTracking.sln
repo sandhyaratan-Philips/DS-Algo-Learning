@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "980. Unique Paths III", "98
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "131. Palindrome Partitioning", "131. Palindrome Partitioning\131. Palindrome Partitioning.csproj", "{C096191C-3552-46D2-B542-8CAC12E6BEAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2305. Fair Distribution of Cookies", "2305. Fair Distribution of Cookies\2305. Fair Distribution of Cookies.csproj", "{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2305. Fair Distribution of Cookies", "2305. Fair Distribution of Cookies\2305. Fair Distribution of Cookies.csproj", "{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1601. Maximum Number of Achievable Transfer Requests", "1601. Maximum Number of Achievable Transfer Requests\1601. Maximum Number of Achievable Transfer Requests.csproj", "{29227E76-9400-4F6C-976B-E1BF024BB6A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
