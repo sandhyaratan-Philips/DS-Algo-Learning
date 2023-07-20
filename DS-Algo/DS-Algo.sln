@@ -79,7 +79,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2090. K Radius Subarray Ave
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2090. K Radius Subarray Averages_slidingWindow", "2090. K Radius Subarray Averages_slidingWindow\2090. K Radius Subarray Averages_slidingWindow.csproj", "{3CC2147D-9FE7-4BE1-B0AE-0E1A94C9FFB5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2448. Minimum Cost to Make Array Equal", "2448. Minimum Cost to Make Array Equal\2448. Minimum Cost to Make Array Equal.csproj", "{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2448. Minimum Cost to Make Array Equal", "2448. Minimum Cost to Make Array Equal\2448. Minimum Cost to Make Array Equal.csproj", "{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "735. Asteroid Collision", "735. Asteroid Collision\735. Asteroid Collision.csproj", "{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -243,6 +245,10 @@ Global
 		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
