@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DynamicArray", "DynamicProgramming\DynamicArray.csproj", "{C88218FA-4DE7-4910-BA7E-ACCC933410DA}"
 EndProject
@@ -81,7 +81,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2090. K Radius Subarray Ave
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2448. Minimum Cost to Make Array Equal", "2448. Minimum Cost to Make Array Equal\2448. Minimum Cost to Make Array Equal.csproj", "{2C1ED42C-0228-44D2-B6F9-91D3F2C07972}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "735. Asteroid Collision", "735. Asteroid Collision\735. Asteroid Collision.csproj", "{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "735. Asteroid Collision", "735. Asteroid Collision\735. Asteroid Collision.csproj", "{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "445. Add Two Numbers II", "445. Add Two Numbers II\445. Add Two Numbers II.csproj", "{2BE6F4D1-D6A5-42EF-BC62-E648FBC34B6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +251,10 @@ Global
 		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F2A8AD1-7971-447F-84DE-A4CBDC0A31B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BE6F4D1-D6A5-42EF-BC62-E648FBC34B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BE6F4D1-D6A5-42EF-BC62-E648FBC34B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BE6F4D1-D6A5-42EF-BC62-E648FBC34B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BE6F4D1-D6A5-42EF-BC62-E648FBC34B6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
