@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "714. Best Time to Buy and Sell Stock with Transaction Fee", "714. Best Time to Buy and Sell Stock with Transaction Fee\714. Best Time to Buy and Sell Stock with Transaction Fee.csproj", "{D4E7EEF9-E07A-4660-928E-706B6D6D1711}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "309. Best Time to Buy and S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2272. Substring With Largest Variance", "2272. Substring With Largest Variance\2272. Substring With Largest Variance.csproj", "{1B311810-BE44-494B-A2DC-B0CB3E485C2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1751. Maximum Number of Events That Can Be Attended II", "1751. Maximum Number of Events That Can Be Attended II\1751. Maximum Number of Events That Can Be Attended II.csproj", "{6D058339-9F5C-4805-B5D2-5C9C7043F8FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1751. Maximum Number of Events That Can Be Attended II", "1751. Maximum Number of Events That Can Be Attended II\1751. Maximum Number of Events That Can Be Attended II.csproj", "{6D058339-9F5C-4805-B5D2-5C9C7043F8FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "664. Strange Printer", "664. Strange Printer\664. Strange Printer.csproj", "{4C26D72D-90D9-49A0-BBF9-549345B526B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6D058339-9F5C-4805-B5D2-5C9C7043F8FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D058339-9F5C-4805-B5D2-5C9C7043F8FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D058339-9F5C-4805-B5D2-5C9C7043F8FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C26D72D-90D9-49A0-BBF9-549345B526B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C26D72D-90D9-49A0-BBF9-549345B526B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C26D72D-90D9-49A0-BBF9-549345B526B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C26D72D-90D9-49A0-BBF9-549345B526B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
