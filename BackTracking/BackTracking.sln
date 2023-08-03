@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "79. Word Search", "79. Word Search\79. Word Search.csproj", "{E8D6B740-40E8-4C8C-B3B6-DD124B157D94}"
 EndProject
@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "131. Palindrome Partitionin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2305. Fair Distribution of Cookies", "2305. Fair Distribution of Cookies\2305. Fair Distribution of Cookies.csproj", "{EEE511CA-AC9D-445A-B908-034CAE6C5F7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1601. Maximum Number of Achievable Transfer Requests", "1601. Maximum Number of Achievable Transfer Requests\1601. Maximum Number of Achievable Transfer Requests.csproj", "{29227E76-9400-4F6C-976B-E1BF024BB6A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1601. Maximum Number of Achievable Transfer Requests", "1601. Maximum Number of Achievable Transfer Requests\1601. Maximum Number of Achievable Transfer Requests.csproj", "{29227E76-9400-4F6C-976B-E1BF024BB6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "77. Combinations", "77. Combinations\77. Combinations.csproj", "{FEDC7FF2-5C07-4E9C-846D-6B68ACA3FDB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "46. Permutations", "46. Permutations\46. Permutations.csproj", "{AE628115-B717-4D0C-9D6F-108B969D9725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17. Letter Combinations of a Phone Number", "17. Letter Combinations of a Phone Number\17. Letter Combinations of a Phone Number.csproj", "{701C347F-7538-4B8B-9D77-75AD73BAEA44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29227E76-9400-4F6C-976B-E1BF024BB6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDC7FF2-5C07-4E9C-846D-6B68ACA3FDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDC7FF2-5C07-4E9C-846D-6B68ACA3FDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDC7FF2-5C07-4E9C-846D-6B68ACA3FDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDC7FF2-5C07-4E9C-846D-6B68ACA3FDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE628115-B717-4D0C-9D6F-108B969D9725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE628115-B717-4D0C-9D6F-108B969D9725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE628115-B717-4D0C-9D6F-108B969D9725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE628115-B717-4D0C-9D6F-108B969D9725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{701C347F-7538-4B8B-9D77-75AD73BAEA44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701C347F-7538-4B8B-9D77-75AD73BAEA44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701C347F-7538-4B8B-9D77-75AD73BAEA44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701C347F-7538-4B8B-9D77-75AD73BAEA44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
