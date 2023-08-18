@@ -25,7 +25,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "664. Strange Printer", "664
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "808. Soup Servings", "808. Soup Servings\808. Soup Servings.csproj", "{5FAAB660-E2C4-4588-ABAE-06635E093693}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "712. Minimum ASCII Delete Sum for Two Strings", "712. Minimum ASCII Delete Sum for Two Strings\712. Minimum ASCII Delete Sum for Two Strings.csproj", "{AC3F5DFB-448E-45CE-AA0E-DD91630A42FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "712. Minimum ASCII Delete Sum for Two Strings", "712. Minimum ASCII Delete Sum for Two Strings\712. Minimum ASCII Delete Sum for Two Strings.csproj", "{AC3F5DFB-448E-45CE-AA0E-DD91630A42FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "139. Word Break", "139. Word Break\139. Word Break.csproj", "{B3E08526-6AFF-4208-9F7E-7040690629B1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "95. Unique Binary Search Trees II", "Unique Binary Search Trees II\95. Unique Binary Search Trees II.csproj", "{B9C453E5-6434-426F-AFDC-EC44C85C6C15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "920. Number of Music Playlists", "920. Number of Music Playlists\920. Number of Music Playlists.csproj", "{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,18 @@ Global
 		{AC3F5DFB-448E-45CE-AA0E-DD91630A42FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC3F5DFB-448E-45CE-AA0E-DD91630A42FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC3F5DFB-448E-45CE-AA0E-DD91630A42FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E08526-6AFF-4208-9F7E-7040690629B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E08526-6AFF-4208-9F7E-7040690629B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E08526-6AFF-4208-9F7E-7040690629B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E08526-6AFF-4208-9F7E-7040690629B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C453E5-6434-426F-AFDC-EC44C85C6C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C453E5-6434-426F-AFDC-EC44C85C6C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C453E5-6434-426F-AFDC-EC44C85C6C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C453E5-6434-426F-AFDC-EC44C85C6C15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31515.178
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "208. Implement Trie (Prefix Tree)", "208. Implement Trie (Prefix Tree)\208. Implement Trie (Prefix Tree).csproj", "{F080017C-2AB3-42AF-99F0-C3E3DF1B85C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "208. Implement Trie (Prefix Tree)", "208. Implement Trie (Prefix Tree)\208. Implement Trie (Prefix Tree).csproj", "{F080017C-2AB3-42AF-99F0-C3E3DF1B85C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "212. Word Search II", "212. Word Search II\212. Word Search II.csproj", "{2324BA0B-FC64-42DC-9D4C-0860B9DEA071}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "212. Word Search II", "212. Word Search II\212. Word Search II.csproj", "{2324BA0B-FC64-42DC-9D4C-0860B9DEA071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "139. Word Break using Trie", "139. Word Break using Trie\139. Word Break using Trie.csproj", "{84F33C15-5EB2-418A-939F-7E6ACE15AE8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2324BA0B-FC64-42DC-9D4C-0860B9DEA071}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2324BA0B-FC64-42DC-9D4C-0860B9DEA071}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2324BA0B-FC64-42DC-9D4C-0860B9DEA071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F33C15-5EB2-418A-939F-7E6ACE15AE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F33C15-5EB2-418A-939F-7E6ACE15AE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F33C15-5EB2-418A-939F-7E6ACE15AE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F33C15-5EB2-418A-939F-7E6ACE15AE8C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
