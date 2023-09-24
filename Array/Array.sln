@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2551. Put Marbles in Bags",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "239. Sliding Window Maximum", "239. Sliding Window Maximum\239. Sliding Window Maximum.csproj", "{CC91F9AC-9278-4B04-9AD3-E9ED70520F6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "542. 01 Matrix", "542. 01 Matrix\542. 01 Matrix.csproj", "{DF79BB3B-1453-4ECB-B68D-138A27EDFC22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "542. 01 Matrix", "542. 01 Matrix\542. 01 Matrix.csproj", "{DF79BB3B-1453-4ECB-B68D-138A27EDFC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "875. Koko Eating Bananas", "875. Koko Eating Bananas\875. Koko Eating Bananas.csproj", "{32DF4653-FB75-472D-8F4E-C616E2477EEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{DF79BB3B-1453-4ECB-B68D-138A27EDFC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF79BB3B-1453-4ECB-B68D-138A27EDFC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF79BB3B-1453-4ECB-B68D-138A27EDFC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32DF4653-FB75-472D-8F4E-C616E2477EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32DF4653-FB75-472D-8F4E-C616E2477EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32DF4653-FB75-472D-8F4E-C616E2477EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32DF4653-FB75-472D-8F4E-C616E2477EEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

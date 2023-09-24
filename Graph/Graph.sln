@@ -85,7 +85,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "802. Find Eventual Safe Sta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "139. Word Break using BFS", "139. Word Break\139. Word Break using BFS.csproj", "{6E540945-5733-4E20-A256-3B5E92B2C43B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1615. Maximal Network Rank", "1615. Maximal Network Rank\1615. Maximal Network Rank.csproj", "{CE00763A-B940-4157-BBBE-E07AD7DF9D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1615. Maximal Network Rank", "1615. Maximal Network Rank\1615. Maximal Network Rank.csproj", "{CE00763A-B940-4157-BBBE-E07AD7DF9D92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree", "1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree\1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree.csproj", "{11342F95-82BF-4B56-955B-9A96DA8AC8E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1203. Sort Items by Groups Respecting Dependencies", "1203. Sort Items by Groups Respecting Dependencies\1203. Sort Items by Groups Respecting Dependencies.csproj", "{FB981336-9375-48C1-A9E7-66693647E22F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +265,14 @@ Global
 		{CE00763A-B940-4157-BBBE-E07AD7DF9D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE00763A-B940-4157-BBBE-E07AD7DF9D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE00763A-B940-4157-BBBE-E07AD7DF9D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11342F95-82BF-4B56-955B-9A96DA8AC8E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11342F95-82BF-4B56-955B-9A96DA8AC8E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11342F95-82BF-4B56-955B-9A96DA8AC8E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11342F95-82BF-4B56-955B-9A96DA8AC8E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB981336-9375-48C1-A9E7-66693647E22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB981336-9375-48C1-A9E7-66693647E22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB981336-9375-48C1-A9E7-66693647E22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB981336-9375-48C1-A9E7-66693647E22F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

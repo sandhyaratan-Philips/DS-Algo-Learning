@@ -31,7 +31,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "139. Word Break", "139. Wor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "95. Unique Binary Search Trees II", "Unique Binary Search Trees II\95. Unique Binary Search Trees II.csproj", "{B9C453E5-6434-426F-AFDC-EC44C85C6C15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "920. Number of Music Playlists", "920. Number of Music Playlists\920. Number of Music Playlists.csproj", "{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "920. Number of Music Playlists", "920. Number of Music Playlists\920. Number of Music Playlists.csproj", "{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1911. Maximum Alternating Subsequence Sum", "1911. Maximum Alternating Subsequence Sum\1911. Maximum Alternating Subsequence Sum.csproj", "{BD0A8AE5-F2F5-4C00-9653-4CFF5918CE65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "403. Frog Jump", "403. Frog Jump\403. Frog Jump.csproj", "{2B3C98E1-97F1-4037-9CE8-9344CB907839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "300. Longest Increasing Subsequence", "300. Longest Increasing Subsequence\300. Longest Increasing Subsequence.csproj", "{A3A768BB-8D63-4213-958C-3909D80E96D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "300. Longest Increasing Subsequence_BottomUp", "300. Longest Increasing Subsequence_BottomUp\300. Longest Increasing Subsequence_BottomUp.csproj", "{1878EB20-ACD3-4D9D-8D3C-3B4EF8D66163}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "646. Maximum Length of Pair Chain", "646. Maximum Length of Pair Chain\646. Maximum Length of Pair Chain.csproj", "{9EE81CC1-F0E3-4F17-A286-5881CE19318A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +109,26 @@ Global
 		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA44CEE8-E623-40C7-BFB2-EDDDDA9931C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0A8AE5-F2F5-4C00-9653-4CFF5918CE65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0A8AE5-F2F5-4C00-9653-4CFF5918CE65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0A8AE5-F2F5-4C00-9653-4CFF5918CE65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0A8AE5-F2F5-4C00-9653-4CFF5918CE65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3C98E1-97F1-4037-9CE8-9344CB907839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3C98E1-97F1-4037-9CE8-9344CB907839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3C98E1-97F1-4037-9CE8-9344CB907839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3C98E1-97F1-4037-9CE8-9344CB907839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3A768BB-8D63-4213-958C-3909D80E96D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A768BB-8D63-4213-958C-3909D80E96D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A768BB-8D63-4213-958C-3909D80E96D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A768BB-8D63-4213-958C-3909D80E96D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1878EB20-ACD3-4D9D-8D3C-3B4EF8D66163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1878EB20-ACD3-4D9D-8D3C-3B4EF8D66163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1878EB20-ACD3-4D9D-8D3C-3B4EF8D66163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1878EB20-ACD3-4D9D-8D3C-3B4EF8D66163}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE81CC1-F0E3-4F17-A286-5881CE19318A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE81CC1-F0E3-4F17-A286-5881CE19318A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE81CC1-F0E3-4F17-A286-5881CE19318A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE81CC1-F0E3-4F17-A286-5881CE19318A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
