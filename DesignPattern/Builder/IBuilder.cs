@@ -9,7 +9,7 @@ namespace Builder
     internal interface IBuilder
     {
         void reset();
-    void setSeats();
+        void setSeats();
         void setEngine();
         void setTripComputer();
         void setGPS();
